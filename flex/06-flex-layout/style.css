@@ -70,10 +70,7 @@ ul li a{
   display: flex;
   justify-content: space-around;
   background: lightgray;
-<<<<<<<<< Temporary merge branch 1
+
   padding: 15px;
-=========
-  padding: 10px;
->>>>>>>>> Temporary merge branch 2
- }
+}
 
