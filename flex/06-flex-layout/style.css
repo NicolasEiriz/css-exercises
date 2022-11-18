@@ -60,6 +60,7 @@ ul li a{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: none;
   /* height: 93vh; */
 }
 
@@ -69,9 +70,8 @@ ul li a{
 
 .footer{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   background: lightgray;
-  padding: 20px;
-;
- 
-}
+  padding: 10px;
+ }
+
