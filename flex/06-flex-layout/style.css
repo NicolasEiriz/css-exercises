@@ -60,7 +60,8 @@ ul li a{
   flex-direction: column;
   justify-content: center;
   align-items: center;
- 
+  background: none;
+  /* height: 93vh; */
 }
 
 .buttons button{
@@ -69,9 +70,12 @@ ul li a{
 
 .footer{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   background: lightgray;
-  padding: 20px;
-;
- 
-}
+<<<<<<<<< Temporary merge branch 1
+  padding: 15px;
+=========
+  padding: 10px;
+>>>>>>>>> Temporary merge branch 2
+ }
+
