@@ -43,5 +43,9 @@ button{
 }
 
 .footer{
-  
+  display: flex;
+  justify-content: space-around;
+  background: lightgray;
+
+  padding: 15px;
 }
